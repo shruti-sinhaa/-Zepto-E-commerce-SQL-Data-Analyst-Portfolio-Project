@@ -85,7 +85,11 @@ Faced encoding issues (UTF-8 error), which were fixed by saving the CSV file usi
 - Grouped products based on weight into Low, Medium, and Bulk categories
 - Measured total inventory weight per product category
 
+# Clone the repository
 
+git clone https://github.com/shruti-sinhaa/postgresql-ecommerce-database-design.git
+ 
+# About
 💼 LinkedIn: [Shruti Sinha](www.linkedin.com/in/shruti-sinha24) 
 
 Let’s connect professionally and grow your data career
