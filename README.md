@@ -86,7 +86,7 @@ Faced encoding issues (UTF-8 error), which were fixed by saving the CSV file usi
 - Measured total inventory weight per product category
 
 
-💼 LinkedIn: Shruti Sinha
+💼 LinkedIn: [Shruti Sinha](www.linkedin.com/in/shruti-sinha24) 
 
 Let’s connect professionally and grow your data career
 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
